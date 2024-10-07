@@ -7,4 +7,4 @@ You just need to change the **path** to the gzmat file and the **start_matrix** 
 - **start_matrix**, the line number in which first atom is written
 - **path**, the file path
 
-Jupyter Notebook provides a step-by-step conversion tutorial.  
+.pynb file (Jupyter Notebook) provides a step-by-step conversion tutorial.  
