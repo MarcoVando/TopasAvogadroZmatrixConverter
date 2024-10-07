@@ -6,3 +6,5 @@ To use simply run the .python script.
 You just need to change the **path** to the gzmat file and the **start_matrix** variable from the .py file.  
 - **start_matrix**, the line number in which first atom is written
 - **path**, the file path
+
+Jupyter Notebook provides a step-by-step conversion tutorial.  
