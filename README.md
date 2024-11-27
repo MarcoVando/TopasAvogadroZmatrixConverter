@@ -1,5 +1,5 @@
 # TopasAvogadroZmatrixConverter
-Script to convert Gaussian ZMatrix to Topas format ZMatrix. This way u can create rigid bodies in Avogadro, save it as Gaussian ZMatrix and then load it into Topas.  
+Script to convert Gaussian ZMatrix to Topas format ZMatrix. This way u can create a rigid body in Avogadro, save it as Gaussian ZMatrix and then load it into Topas.  
 When saving in .gzmat format, Avogadro saves the molecules you draw placing the atoms in the order you drew them! When you want some atoms to be defined in specific positions keep in mind this detail! (Like dummy atoms in the middle of benzene rings or two dummy atoms in a line to be placed on an axis should be drawn first!)
 
 # Instructions
