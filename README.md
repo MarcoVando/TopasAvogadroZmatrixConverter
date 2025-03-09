@@ -9,3 +9,7 @@ You just need to change the **path** to the gzmat file and the **start_matrix** 
 - **path**: the file path
 
 .pynb file (Jupyter Notebook) provides a step-by-step conversion tutorial.  
+
+## Citation 
+If you find this useful, please cite the repository using the dedicated button on the right
+[![DOI](https://zenodo.org/badge/849603228.svg)](https://doi.org/10.5281/zenodo.14996717)
