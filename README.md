@@ -10,7 +10,7 @@ You just need to change the **path** to the gzmat file and the **start_matrix** 
 
 .pynb file (Jupyter Notebook) provides a step-by-step conversion tutorial.  
 
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/MarcoVando/TopasAvogadroZmatrixConverter/blob/main/demo.gif)" width="100" height="100" />
+<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/MarcoVando/TopasAvogadroZmatrixConverter/raw/main/demo.gif)" width="540" height="540" />
 
 
 ## Citation 
